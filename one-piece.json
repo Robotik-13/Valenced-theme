@@ -1,0 +1,15 @@
+{
+	"name": "One piece",
+	"description": "A simple one piece theme",
+	"authors": [
+		{ "name": "NovaStrike", "id": "0" }
+	],
+	"semanticColors": {
+		"BACKGROUND_BASE_LOWEST": ["#000000"],
+		"CONTROL_PRIMARY_BACKGROUND_DEFAULT": ["#835151"],
+		"INTERACTIVE_TEXT_ACTIVE": ["#ff5d5d"],
+		"MOBILE_CHAT_NEW_MESSAGE_TEXT": ["#be865f"]
+	},
+	"rawColors": {},
+	"spec": 2
+}
